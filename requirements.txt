@@ -1,0 +1,8 @@
+Python 3.10+
+Flask
+PyTorch
+OpenCV
+NumPy
+Pillow
+
+pip install -r requirements.txt
